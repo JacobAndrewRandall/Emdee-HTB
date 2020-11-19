@@ -15,4 +15,4 @@ I thought of a few ideas I could use to get the flag:
 
 However I already had an idea on how the challenge was supposed to be beat so I set out on creating a bot in python3. The [bot](https://github.com/JacobAndrewRandall/Emdee-HTB/blob/main/main.py) is fairly simple it creates a session and requests the page from the server then if it recieves a success code it takes the phrase and encrypts it then sends the phrase back to the server and sends the return webpage in my python console.
 
-<img src="bot_source.png"/>
+<img src="bot.png"/>
