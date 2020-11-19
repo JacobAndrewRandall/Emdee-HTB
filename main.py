@@ -1,7 +1,7 @@
 from hashlib import md5
 from bs4 import BeautifulSoup as BS
 import requests
-url = "http://143.110.168.246:30780"
+url = ""
 
 
 def encrypt_to_md5(string):
